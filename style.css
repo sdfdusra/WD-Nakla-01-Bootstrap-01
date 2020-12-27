@@ -1,0 +1,23 @@
+/* .mytest{
+    background-color: red;
+}
+
+.box3{
+    background-color: aqua;
+} */
+
+.myLogo img{
+    max-width: 150px;
+}
+
+.naklaNavbar{
+    background-color: darkmagenta;
+}
+
+.issaMoto{
+    background-color: tomato;
+}
+
+.issaMoto:hover{
+    background-color: violet;
+}
